@@ -29,3 +29,7 @@ Before doing anything else, read, in order:
 | [API.md](docs/API.md) | API / Server Action contract |
 | [DEPLOYMENT.md](docs/DEPLOYMENT.md) | Vercel deployment plan |
 | [DECISIONS.md](docs/DECISIONS.md) | Technical decisions log |
+
+
+Un:- admin
+pass:- padmin@321
